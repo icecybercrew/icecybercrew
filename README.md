@@ -20,7 +20,4 @@ To unite and support cybersecurity clubs across universities in Malaysia, foster
 
 To view the GitHub profile summary, use the following link:
 
-```
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icecybercrew&theme=monokai
-```
-
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icecybercrew&theme=monokai)
